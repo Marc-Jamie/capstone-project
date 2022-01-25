@@ -9,11 +9,12 @@
     "server": "node server.js"
   },
   "dependencies": {
+    "editorconfig": "^0.15.3",
     "express": "^4.17.2",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "eslint": "8.7.0",
+    "eslint": "^8.7.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-config-xo-react": "^0.26.0",
     "prettier": "^2.5.1"
